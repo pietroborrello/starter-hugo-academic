@@ -20,7 +20,6 @@ bio: Program Analysis and Fuzzing for architectural and microarchitectural vulne
 interests:
 - Systems Security
 - Microarchitectural Attacks & Defenses
-- Information Retrieval
 - Side-Channels
 - Program Analysis
 - Fuzzing
