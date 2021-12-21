@@ -5,7 +5,9 @@
 
 # Appearance
 
-theme: mr_robot
+theme: minimal
+color_theme: mr_robot
+font_theme: mr_robot
 day_night: false
 font: ''
 font_size: L
