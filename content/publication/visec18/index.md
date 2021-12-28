@@ -47,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/8709204'
+url_pdf: ''
 url_code: 'https://github.com/pietroborrello/RopMate'
 url_dataset: ''
 url_poster: ''
