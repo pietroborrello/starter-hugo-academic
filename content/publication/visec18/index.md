@@ -1,20 +1,26 @@
 ---
-title: "An example conference paper"
+title: "Ropmate: Visually Assisting the Creation of ROP-Based Exploits"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- M. Angelini
+- G. Blasilli
 - admin
-- Robert Ford
+- E. Coppa
+- D.C. D'Elia
+- S. Ferracci
+- S. Lenti
+- G. Santucci
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2018-01-01T00:00:00Z"
+doi: "https://doi.org/10.1109/VIZSEC.2018.8709204"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -26,8 +32,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: IEEE VizSec
+publication_short: IEEE VizSec
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -41,8 +47,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/8709204'
+url_code: 'https://github.com/pietroborrello/RopMate'
 url_dataset: ''
 url_poster: ''
 url_project: ''
