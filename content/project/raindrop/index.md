@@ -1,6 +1,6 @@
 ---
 title: "raindrop"
-summary: Transform program functions into obfuscated ROP chains.
+summary: A binary translator to transform program functions into obfuscated ROP chains.
 date: "2021-06-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
