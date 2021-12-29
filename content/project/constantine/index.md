@@ -1,5 +1,5 @@
 ---
-title: "Constantine: Automatic Side-Channel Resistance Using Efficient Control and Data Flow Linearization"
+title: "Constantine"
 summary: A compiler-based system to automatically harden programs against microarchitectural side channels.
 tags:
 - Side Channels
