@@ -1,5 +1,5 @@
 ---
-title: "Intel Atom Microcode - Ghidra Processor Module"
+title: "Intel Atom Microcode Decompiler"
 summary: Ghidra Processor Module to disassemble and decompile x86 Intel Atom microcode.
 date: "2021-07-10T00:00:00Z"
 
