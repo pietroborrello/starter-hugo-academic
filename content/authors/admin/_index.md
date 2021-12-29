@@ -73,3 +73,5 @@ I am a PhD Student at the Sapienza University of Rome, working on Systems Securi
 My focus is applying Fuzzing and Program Analysis techniques to find and mitigate architectural and microarchitectural vulnerabilities.
 
 I am also a passionate CTF player focusing on exploitation and reverse-engineering with [TRX](https://theromanxpl0it.github.io/) and [mhackeroni](https://mhackeroni.it/) teams.
+
+Co-founder and current lead of the [DEFCON Group in Rome](https://defcon11396.it/).
