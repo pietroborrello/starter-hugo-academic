@@ -16,6 +16,7 @@ summary: Deep dive into transient execution attacks.
 abstract: "Deep dive into how modern processor optimizations such as branch prediction and out-of-order execution may lead to the leak of secrets through the CPU's microarchitectural state. 
 Numerous attacks have been proposed, and we will give an overview of these techniques' state of the art.
 
+
 In the second talk, we will continue our journey into the never-ending story of Transient Execution Attacks to understand how modern processor microcomponents may still lead to arbitrary secret leakage.
 Meltdown and Spectre were only the beginning. Microarchitectural Data Sampling attacks can leak data across any protection boundary.
 We will understand why data may be not securely kept in any privilege boundary, and how may be impossible to enforce process, kernel or even virtual machines isolation in an SMT environment."
@@ -40,9 +41,9 @@ featured: false
 #   focal_point: Right
 
 links:
-- name: "PDF1"
+- name: "PDF 1"
   url: Transient_Execution_Attacks_explained_to_your_Grandma.pdf
-- name: "PDF2"
+- name: "PDF 2"
   url: Transient_Execution_Attacks_Episode_II.pdf
 - name: "Meeting"
   url: https://defcon11396.it/meetings/meeting-may31/
