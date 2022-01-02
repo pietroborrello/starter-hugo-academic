@@ -69,7 +69,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD Student at the Sapienza University of Rome, working on Systems Security.
+I am a PhD Student at the Sapienza University of Rome, working on Systems Security. \\
 My focus is applying Fuzzing and Program Analysis techniques to find and mitigate architectural and microarchitectural vulnerabilities.
 
 I am also a passionate CTF player focusing on exploitation and reverse-engineering with [TRX](https://theromanxpl0it.github.io/) and [mhackeroni](https://mhackeroni.it/) teams.
