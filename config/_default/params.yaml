@@ -14,9 +14,9 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+org_name: 'Pietro Borrello'
+description: 'Pietro Borrello. PhD Student focusing on Program Analysis and Fuzzing for architectural and microarchitectural vulnerabilities.'
+twitter: 'borrello_pietro'
 
 # Contact (edit or remove options as required)
 
