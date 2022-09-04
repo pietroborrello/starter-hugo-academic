@@ -1,21 +1,18 @@
 ---
-title: "ÆPIC Leak"
-summary: Architecturally Leaking Uninitialized Data from the Microarchitecture. **Pwnie Award** for *Best Desktop Bug*
-tags:
-- Architectural
-- CPU Bug
-date: "2022-08-09T00:00:00Z"
+title: "Custom Processing Unit"
+summary: The first dynamic analysis framework for CPU microcode. **Pwnie Award** for *Most Innovative Research*
+date: "2022-08-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://aepicleak.com"
+external_link: "https://github.com/pietroborrello/CustomProcessingUnit"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
 #   focal_point: Smart
 
-url_code: "https://github.com/IAIK/AEPIC"
-url_pdf: "https://www.aepicleak.com/aepicleak.pdf"
-url_slides: "https://www.blackhat.com/us-22/briefings/schedule/#aepic-leak-architecturally-leaking-uninitialized-data-from-the-microarchitecture-26559"
+url_code: "https://github.com/pietroborrello/CustomProcessingUnit"
+url_pdf: ""
+url_slides: "https://www.blackhat.com/us-22/briefings/schedule/#custom-processing-unit-tracing-and-patching-intel-atom-microcode-26711"
 url_video: ""
 
 # Slides (optional).

@@ -75,3 +75,7 @@ My focus is applying Fuzzing and Program Analysis techniques to find and mitigat
 I am also a passionate CTF player focusing on exploitation and reverse-engineering with [TRX](https://theromanxpl0it.github.io/) and [mhackeroni](https://mhackeroni.it/) teams.
 
 Co-founder and current lead of the [DEFCON Group in Rome](https://defcon11396.it/).
+
+Black Hat speaker and **Pwnie Award** winner:
+- **Best Desktop Bug** for *"ÆPIC Leak: Architecturally Leaking Uninitialized Data from the Microarchitecture"*
+- **Most Innovative Research** for *"Custom Processing Unit: Tracing and Patching Intel Atom Microcode"*
