@@ -42,3 +42,5 @@ design:
 [CVE-2022-33069](https://nvd.nist.gov/vuln/detail/CVE-2022-33069): DoS in `solidity` compiler
 
 [CVE-2022-33070](https://nvd.nist.gov/vuln/detail/CVE-2022-33070): undefined behavior in `protobuf-c`
+
+[**\[Linux kernel patches\]**](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=grep&q=borrello%40diag.uniroma1.it)
