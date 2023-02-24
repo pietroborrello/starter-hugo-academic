@@ -48,7 +48,7 @@ url_code: 'https://github.com/pietroborrello/constantine'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'ccs21_full_presentation.pdf'
 url_source: ''
 url_video: ''
 
