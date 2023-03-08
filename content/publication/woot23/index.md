@@ -1,15 +1,14 @@
 ---
-title: "ÆPIC Leak: Architecturally Leaking Uninitialized Data from the Microarchitecture"
+title: "CustomProcessingUnit: Reverse Engineering and Customization of Intel Microcode"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Andreas Kogler
+- Catherine Easdon
 - Martin Schwarzl
-- Moritz Lipp
-- Daniel Gruss
+- Roland Czerny
 - Michael Schwarz
 
 # Author notes (optional)
@@ -17,7 +16,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-08-09T00:00:00Z"
+date: "2023-05-25T00:00:00Z"
 # doi: "https://dl.acm.org/doi/10.1145/3460120.3484583"
 
 # Schedule page publish date (NOT publication's date).
@@ -30,8 +29,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: USENIX SECURITY
-publication_short: USENIX SECURITY
+publication: WOOT
+publication_short: WOOT
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -45,8 +44,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.usenix.org/system/files/sec22-borrello.pdf'
-url_code: 'https://github.com/IAIK/AEPIC'
+url_pdf: ''
+url_code: 'https://github.com/pietroborrello/CustomProcessingUnit'
 url_dataset: ''
 url_poster: ''
 url_project: ''
