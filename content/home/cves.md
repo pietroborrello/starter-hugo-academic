@@ -23,14 +23,14 @@ table {
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
-| <nobr>[CVE-2023-25012](https://nvd.nist.gov/vuln/detail/CVE-2023-25012)</nobr> | use-after-free in `HID:bigben - Linux kernel` |
-| <nobr>[CVE-2023-1079](https://nvd.nist.gov/vuln/detail/CVE-2023-1079)</nobr> | use-after-free in `HID:asus- Linux kernel` |
-| <nobr>[CVE-2023-1078](https://nvd.nist.gov/vuln/detail/CVE-2023-1078)</nobr> | type confusion & heap OOB write in `RDS - Linux kernel` |
-| <nobr>[CVE-2023-1077](https://nvd.nist.gov/vuln/detail/CVE-2023-1077)</nobr> | type confusion in `Realtime Scheduler - Linux kernel` |
-| <nobr>[CVE-2023-1076](https://nvd.nist.gov/vuln/detail/CVE-2023-1076)</nobr> | type confusion in `TUN/TAP- Linux kernel` |
-| <nobr>[CVE-2023-1075](https://nvd.nist.gov/vuln/detail/CVE-2023-1075)</nobr> | type confusion in `TLS - Linux kernel` |
-| <nobr>[CVE-2023-1074](https://nvd.nist.gov/vuln/detail/CVE-2023-1074)</nobr> | type confusion in `SCTP - Linux kernel` |
-| <nobr>[CVE-2023-1073](https://nvd.nist.gov/vuln/detail/CVE-2023-1073)</nobr> | type confusion & NULL ptr deref in `HID - Linux kernel` |
+| <nobr>[CVE-2023-25012](https://nvd.nist.gov/vuln/detail/CVE-2023-25012)</nobr> | use-after-free in `HID:bigben` in the `Linux kernel` |
+| <nobr>[CVE-2023-1079](https://nvd.nist.gov/vuln/detail/CVE-2023-1079)</nobr> | use-after-free in `HID:asus` in the `Linux kernel` |
+| <nobr>[CVE-2023-1078](https://nvd.nist.gov/vuln/detail/CVE-2023-1078)</nobr> | type confusion & heap OOB write in `RDS` in the `Linux kernel` |
+| <nobr>[CVE-2023-1077](https://nvd.nist.gov/vuln/detail/CVE-2023-1077)</nobr> | type confusion in `Realtime Scheduler` in the `Linux kernel` |
+| <nobr>[CVE-2023-1076](https://nvd.nist.gov/vuln/detail/CVE-2023-1076)</nobr> | type confusion in `TUN/TAP` in the `Linux kernel` |
+| <nobr>[CVE-2023-1075](https://nvd.nist.gov/vuln/detail/CVE-2023-1075)</nobr> | type confusion in `TLS` in the `Linux kernel` |
+| <nobr>[CVE-2023-1074](https://nvd.nist.gov/vuln/detail/CVE-2023-1074)</nobr> | type confusion in `SCTP` in the `Linux kernel` |
+| <nobr>[CVE-2023-1073](https://nvd.nist.gov/vuln/detail/CVE-2023-1073)</nobr> | type confusion & NULL ptr deref in `HID`  in the `Linux kernel` |
 | <nobr>[CVE-2022-21233](https://nvd.nist.gov/vuln/detail/CVE-2022-21233)</nobr> | information disclosure in Intel CPUs ([ÆPIC Leak](https://www.aepicleak.com/)) |
 | <nobr>[CVE-2022-33070](https://nvd.nist.gov/vuln/detail/CVE-2022-33070)</nobr> | undefined behavior in `protobuf-c` |
 | <nobr>[CVE-2022-33069](https://nvd.nist.gov/vuln/detail/CVE-2022-33069)</nobr> | DoS in `solidity` compiler |
