@@ -73,6 +73,8 @@ I am a Microarchitecture Security Researcher at Apple SEAR.
 
 I received my PhD at the Sapienza University of Rome, working on Systems Security with a focus on applying Fuzzing and Program Analysis techniques to find and mitigate architectural and microarchitectural vulnerabilities.
 
+In my [PhD Thesis](uploads/Thesis-Pietro-Borrello.pdf), I contributed to find and mitigate over one hundred bugs in software, operating systems, and CPUs.
+
 I am also a passionate CTF player focusing on exploitation and reverse-engineering with [TRX](https://theromanxpl0it.github.io/) and [mhackeroni](https://mhackeroni.it/) teams.
 
 Co-founder of the [DEFCON Group in Rome](https://defcon11396.it/).
