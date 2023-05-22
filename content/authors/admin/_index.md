@@ -6,15 +6,15 @@ title: Pietro Borrello
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Systems Security
+role: Microarchitecture Security Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Sapienza University of Rome
-  url: https://www.uniroma1.it/en
+- name: Apple SEAR
+  # url: https://security.apple.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Program Analysis and Fuzzing for architectural and microarchitectural vulnerabilities.
+bio: Microarchitecture Security Researcher at Apple SEAR.
 
 # Interests to show in About widget
 interests:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:borrello@diag.uniroma1.it
+  link: mailto:pietro.borrello95@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/borrello_pietro
@@ -69,13 +69,14 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD Student at the Sapienza University of Rome, working on Systems Security. 
-My focus is applying Fuzzing and Program Analysis techniques to find and mitigate architectural and microarchitectural vulnerabilities.
+I am a Microarchitecture Security Researcher at Apple SEAR.
+
+I received my PhD at the Sapienza University of Rome, working on Systems Security with a focus on applying Fuzzing and Program Analysis techniques to find and mitigate architectural and microarchitectural vulnerabilities.
 
 I am also a passionate CTF player focusing on exploitation and reverse-engineering with [TRX](https://theromanxpl0it.github.io/) and [mhackeroni](https://mhackeroni.it/) teams.
 
-Co-founder and current lead of the [DEFCON Group in Rome](https://defcon11396.it/).
+Co-founder of the [DEFCON Group in Rome](https://defcon11396.it/).
 
-Black Hat speaker and **Pwnie Award** winner:
+BlackHat & OffensiveCon speaker and **Pwnie Award** recipient:
 - **Best Desktop Bug** for *"ÆPIC Leak: Architecturally Leaking Uninitialized Data from the Microarchitecture"*
 - **Most Innovative Research** for *"Custom Processing Unit: Tracing and Patching Intel Atom Microcode"*
