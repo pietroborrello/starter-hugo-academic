@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Engineering in Computer Science (current)
+  - course: PhD in Engineering in Computer Science
     institution: Sapienza University of Rome
     year: 2023
   - course: MSc in Engineering in Computer Science
