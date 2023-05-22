@@ -1,10 +1,10 @@
 ---
-title: Custom Processing Unit - BlackHat USA
+title: Custom Processing Unit - OffensiveCon
 
-event: Black Hat USA 2022
-event_url: https://www.blackhat.com/us-22/briefings/schedule/#custom-processing-unit-tracing-and-patching-intel-atom-microcode-26711
+event: OffensiveCon 2023
+event_url: https://www.offensivecon.org/speakers/2023/pietro-borrello.html
 
-location: "Black Hat USA 2022"
+location: "OffensiveCon 2023"
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,25 +12,21 @@ location: "Black Hat USA 2022"
 #   postcode: '94305'
 #   country: United States
 
-summary: "Tracing and Patching Intel Atom Microcode."
+summary: "Reverse Engineering and Customization of Intel Microcode."
 abstract: "The ability to debug or simply observe the microarchitecture of closed-source CPUs has always been an exclusive privilege of the product vendors. For Intel CPUs, even the details of the high-level workings of CPU microcode were only available by digging into patents and not publicly documented.
 
-In this talk, we present the first systematic study of Intel Atom Microcode and a software-only framework that can observe, trace, and even patch microcode execution, shedding unprecedented light into the internal workings of Intel CPUs.
+In this talk, we present the first framework for static and dynamic analysis of Intel Atom microcode. Building upon prior research, we reverse engineer Goldmont microcode semantics and reconstruct the patching primitives for microcode customization. For static analysis, we implement a Ghidra processor module for decompilation and analysis of decrypted microcode. For dynamic analysis, we create a UEFI application that can trace and patch microcode to provide complete microcode control on Goldmont systems.
 
-We develop a Ghidra decompiler for Atom Microcode and reverse-engineer how the CPU internally uses its control register bus to manage its resources. Resorting to previously disclosed undocumented instructions, we then create a framework that can gain complete control over CPU microcode by replicating such interactions.
-
-Our framework can assemble and patch micro-instructions, hook CPU events, and trace microcode execution. To showcase its power, we trace and reverse-engineer the routines involved in the obscure Intel CPU microcode update process.
-
-For the first time, we disclose the details of the decryption algorithms for microcode updates and the binary format of the decrypted update: an amazing discovery is that a microcode update is, in fact, a custom language interpreted by the CPU. We will make our framework available as open source."
+Leveraging our frameworks, we reverse engineer the confidential Intel microcode update algorithm and perform the first security analysis of its design and implementation. In three further case studies, we provide the first x86 Pointer Authentication Code (PAC) microcode implementation performing its security evaluation, design and implement fast software breakpoints (more than 1000x faster than standard breakpoints), and present constant-time microcode division, illustrating the potential security and performance benefits of microcode customization."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-08-10T00:00:00Z"
-date_end: "2022-08-10T00:00:00Z"
+date: "2023-05-20T00:00:00Z"
+date_end: "2023-05-20T00:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-08-10T00:00:00Z"
+publishDate: "2023-05-20T00:00:00Z"
 
 authors: []
 tags: []
@@ -50,7 +46,7 @@ featured: false
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://youtu.be/C-ZSvTVvK1o"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

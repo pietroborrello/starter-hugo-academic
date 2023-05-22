@@ -47,7 +47,7 @@ featured: false
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/8ZWc7Hcsl8o"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
